@@ -1,0 +1,35 @@
+.img1{
+    width: 100%;
+    height: 100vh;
+}
+ #logo{
+    width: 60px;
+    height: 50px;
+} 
+.btn1:hover{
+  cursor: pointer;
+  background-color: red;
+}
+.p{
+    margin-bottom: 2rem;
+}
+.p:hover{
+  cursor: pointer;
+  transform: scale(1.1)
+}
+.rating{
+    color: rgb(255, 200, 0);
+}
+/*  start footer */
+.footer {
+  background-color: #121312; /* Dark blue background */
+  color: white;
+  padding: 40px 0;
+}
+.footer a {
+  color: #b0c4de;
+  text-decoration: none;
+}
+.footer a:hover {
+  color: white;
+}
